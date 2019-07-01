@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677598041012",
+    "firebase_url": "https://akilli-reklam-yonetim-si-90118.firebaseio.com",
+    "project_id": "akilli-reklam-yonetim-si-90118",
+    "storage_bucket": "akilli-reklam-yonetim-si-90118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677598041012:android:f2969f71396269e9",
+        "android_client_info": {
+          "package_name": "com.selim.arys2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677598041012-6d2koeod6qafibhksga401340t6164uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selim.arys2",
+            "certificate_hash": "dddfd1fb8cf2e9751179d958dca8c49c41675da4"
+          }
+        },
+        {
+          "client_id": "677598041012-enhnmf6gsl7j6ldbjjcifg8chsvo01g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt491TjDrsVgL8_80jKxrzAvyd7Q8Eegs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677598041012-enhnmf6gsl7j6ldbjjcifg8chsvo01g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
